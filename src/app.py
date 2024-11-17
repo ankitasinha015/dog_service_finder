@@ -4,6 +4,13 @@ from embeddings import EmbeddingHandler
 from typing import Dict, Any
 import os
 
+import sys
+
+# Add the project root directory to Python path
+sys.path.append(os.path.dirname(os.path.dirname(os.path.abspath(__file__))))
+
+
+
 class DogServiceApp:
     def __init__(self):
         self.embedding_handler = EmbeddingHandler()
