@@ -1,0 +1,33 @@
+# Virtual Environment
+venv/
+env/
+ENV/
+.venv/
+
+# Python
+__pycache__/
+*.py[cod]
+*.so
+*.dll
+*.lib
+*.pyd
+*.exe
+
+# Torch and other large packages
+torch/*.pt
+*.pth
+*.onnx
+*.weights
+
+# Environment variables
+.env
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# Operating System
+.DS_Store
+Thumbs.db

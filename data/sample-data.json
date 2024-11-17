@@ -1,0 +1,36 @@
+{
+  "services": [
+    {
+      "id": "1",
+      "name": "Happy Paws Dog Park & Training",
+      "description": "Premium dog training and daycare facility with indoor and outdoor play areas",
+      "services": ["Training", "Daycare", "Grooming"],
+      "features": ["Indoor Play Area", "Agility Course", "Swimming Pool"],
+      "location": "123 Dog Lane, Pawville",
+      "rating": 4.8,
+      "reviews": [
+        "Great training programs, my dog loved it!",
+        "Professional staff and clean facility",
+        "The swimming pool is perfect for hot days"
+      ],
+      "contact": "555-0123",
+      "hours": "7am-7pm"
+    },
+    {
+      "id": "2",
+      "name": "Cozy Canine Lodge",
+      "description": "Luxury boarding and daycare facility focused on comfort and care",
+      "services": ["Boarding", "Daycare", "Grooming"],
+      "features": ["Private Suites", "Webcam Access", "24/7 Staff"],
+      "location": "456 Bark Street, Pawville",
+      "rating": 4.9,
+      "reviews": [
+        "My dog feels at home here",
+        "Love the webcam feature to check on my pet",
+        "Very caring staff and clean facility"
+      ],
+      "contact": "555-0124",
+      "hours": "24/7"
+    }
+  ]
+}
